@@ -100,15 +100,15 @@ Future iterations will include:
 
 ### Full Breadboard Layout
 
-![Full Breadboard Layout](FullBreadBoardLayout.jpeg)
+![Full Breadboard Layout](images/FullBreadBoardLayout.jpeg)
 
 ### Left Side Close-Up
 
-![Left Close-Up](LeftCloseUp.jpeg)
+![Left Close-Up](images/LeftCloseUp.jpeg)
 
 ### Right Side Close-Up
 
-![Right Close-Up](RightCloseUp.jpeg)
+![Right Close-Up](images/RightCloseUp.jpeg)
 
 ---
 
