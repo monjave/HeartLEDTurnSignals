@@ -104,11 +104,11 @@ Future iterations will include:
 
 ### Left Side Close-Up
 
-![Left Close-Up](LeftCloseUp.jpg)
+![Left Close-Up](LeftCloseUp.jpeg)
 
 ### Right Side Close-Up
 
-![Right Close-Up](RightCloseUp.jpg)
+![Right Close-Up](RightCloseUp.jpeg)
 
 ---
 
